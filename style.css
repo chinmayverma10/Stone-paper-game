@@ -42,7 +42,7 @@ img{
 .msg-container{
     margin-top: 3rem;
 }
-.msg{
+#msg{
     /* display: inline; */
     font-size: 3rem;
     text-align: center;
